@@ -1,0 +1,44 @@
+body{
+    font-family: Arial, Verdana;
+    background-color: #000000;
+    color: #FFFFFF;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+h1{
+    font-size: 42px;
+    padding: 15px;
+}
+
+h2{
+    font-size: 30px;
+    color: #0D0D0D;
+}
+
+p{
+    font-size: 24px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+img{
+    width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border:#FFFFFF 10px dashed;
+}
+
+div{
+    min-height: 125px;
+    padding: 20px;
+    border: #FFFFFF 3px solid;
+}
+
+.introduction{
+    border-radius: 15px;
+    margin-top: 15px;
+    line-height: 2;
+}
